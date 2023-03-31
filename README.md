@@ -3,5 +3,5 @@
 
  If a player scores 50 points in the game, a certain amount of cat food is dispensed into an automatic feeding station, which is assumed to be located on the streets. To replicate this process, we created a prototype of the feeding station using Arduino Uno and other necessary electronic components.
 
- You can find an image showing both the game and the feeding station in operation at the same time by following the link below.
+ You can find an video showing both the game and the feeding station in operation at the same time by following the link below.
  https://youtu.be/3Jiz_zcSnMs
